@@ -5,6 +5,8 @@
 # Especific Folders
 .[eE]ng/[dD]ata/
 
+#elirweb
+
 # User-specific files
 *.rsuser
 *.suo
